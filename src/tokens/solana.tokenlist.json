@@ -184615,6 +184615,15 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Dc2m8mXpm8QfAKkXaAhdPT5GnshBLmFpPPPfL98DbXLv",
+      "symbol": "FUEL",
+      "name": "FUEL Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/AdebowaleNoble/token-list/main/assets/mainnet/Dc2m8mXpm8QfAKkXaAhdPT5GnshBLmFpPPPfL98DbXLv/logo.png",
+      "tags": ["utility-token", "interplanetary", "AI-finance"]
     }
   ],
   "version": {
