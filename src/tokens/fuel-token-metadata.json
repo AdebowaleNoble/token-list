@@ -1,0 +1,13 @@
+ {
+  "name": "FUEL",
+  "symbol": "FUEL",
+  "uri": "https://nftstorage.link/ipfs/bafybeietnblftpjoisz6etkkxnqvoon2k7qgti27bfvn3uknbsmtj6k6ba/fuel-token-metadata.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "Dc2m8mXpm8QfAKkXaAhdPT5GnshBLmFpPPPfL98DbXLv",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
